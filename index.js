@@ -112,6 +112,8 @@ const server = new ApolloServer({
 
     return { loaders, user };
   },
+  introspection: true,
+  playground: true,
 });
 
 const port = process.env.PORT || 5000;
