@@ -116,6 +116,7 @@ const server = new ApolloServer({
 
 const port = process.env.PORT || 5000;
 
-server.listen(port).then(({ url }) => {
-  console.log(`🚀 Server running at ${url}`);
+server.listen(port).then(({ url, subscriptionsUrl }) => {
+  console.log(`🚀 Server ready at ${url}`);
+  console.log(`🚀 Subscriptions ready at ${subscriptionsUrl}`);
 });
