@@ -1,4 +1,4 @@
-# Gallery Books API
+# 📚 Gallery Books API
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=for-the-badge)](https://github.com/giovanigenerali/gallerybooks-graphql-api/pulls)
 [![GitHub license](https://img.shields.io/github/license/giovanigenerali/gallerybooks-graphql-api?style=for-the-badge)](https://github.com/giovanigenerali/gallerybooks-graphql-api/blob/master/LICENSE)
